@@ -9,6 +9,6 @@ This is a simple interpreter implementation written in `Java`. It interprets a c
 - Looping constructs (while, for)
 - Arithmetic and logical expressions
 - Printing statements
-- ...
+
 
 
